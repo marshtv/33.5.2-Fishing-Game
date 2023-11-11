@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "33_5_2_Fishing_Game",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "33_5_2_Fishing_Game::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-33_5_2_Fishing_Game-Debug-c9f66810fe0562aba4c5.json",
+					"name" : "33_5_2_Fishing_Game",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "F:/__C++/Skillbox/33 Using Exceptions/33.5.2 Fishing Game/cmake-build-debug",
+		"source" : "F:/__C++/Skillbox/33 Using Exceptions/33.5.2 Fishing Game"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
